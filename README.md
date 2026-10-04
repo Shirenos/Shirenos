@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="assets/banner.svg" alt="Shirenos" width="100%"/>
+
+<a href="https://github.com/Shirenos"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A99BFF&center=true&vCenter=true&width=620&lines=Exploring+the+language+of+machines;Chasing+elegant+mathematics;Turning+ideas+into+working+code;Building+bots+and+3D+worlds" alt="typing"/></a>
+
 # Hi, I'm **Shirenos** 👋
 
 *Exploring the language of machines and the logic of mathematics.*
@@ -30,3 +34,10 @@ I'm a student fascinated by **machine learning** and **mathematics**, and by the
 ## ✦ Currently
 
 📐 Diving deeper into mathematics · 🧠 learning machine learning · 🤖 building bots
+
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirenos&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
+
+</div>
