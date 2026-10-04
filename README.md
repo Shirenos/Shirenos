@@ -21,6 +21,7 @@ I'm a student fascinated by **machine learning** and **mathematics**, and by the
 
 - 🎯 [**habit-tracker-bot**](https://github.com/Shirenos/habit-tracker-bot): a Telegram habit tracker with streaks, stats and reminders.
 - 🎓 [**university-schedule-bot**](https://github.com/Shirenos/university-schedule-bot): a Telegram bot that syncs a university timetable and reminds me about classes.
+- 🧮 [**ml-from-scratch**](https://github.com/Shirenos/ml-from-scratch): linear & logistic regression, an MLP with backprop, k-means and PCA, written from scratch in plain NumPy, with tests and plots.
 - 🌌 [**universe**](https://github.com/Shirenos/universe): an interactive 3D website where my projects orbit as planets.
 
 ## ✦ Toolbox
